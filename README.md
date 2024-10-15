@@ -8,5 +8,5 @@
 - **HTML5**: Structured with semantic HTML for a clear, maintainable codebase.
 - **Accessibility**: Designed to be inclusive and accessible to a wide range of users.
 
- Open the `index.html` file in your browser to view the website.
+ Open the https://shanmugapriya-1994.github.io/Greenden-Tailwind-Project/ file in your browser to view the website.
 
